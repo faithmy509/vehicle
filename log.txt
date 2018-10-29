@@ -1,0 +1,2 @@
+Tensor("final_layer/predictions:0", shape=(1, 764), dtype=float32)
+Tensor("final_layer/predictions:0", shape=(1, 764), dtype=float32)
